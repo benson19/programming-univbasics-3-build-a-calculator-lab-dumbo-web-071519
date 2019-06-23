@@ -15,9 +15,9 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-
+  modulo = num2.flo
 end
 
 def square_root(num)
-
+  square_root = 
 end
